@@ -3,11 +3,7 @@ from tkinter.font import Font
 from snake_game import gameStart
 master = Tk()
 
-'''
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
-'''
+
 frame = Frame(master,relief=SUNKEN)
 master.title("HS")
 photo = PhotoImage(file = "icon.png")
